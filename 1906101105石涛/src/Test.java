@@ -47,5 +47,10 @@ public class Test {
 //        int n=0;
 //        do(System.out.println("do while"+n);n++;)while (n<0);
 
+        int h=0;
+        for(int k=0;k<101;k++){
+            h+=k;
+        }
+        System.out.println(h);
     }
 }
