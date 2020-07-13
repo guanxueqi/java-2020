@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1906101031王卓越/1906101031王卓越.iml" filepath="$PROJECT_DIR$/1906101031王卓越/1906101031王卓越.iml" />
       <module fileurl="file://$PROJECT_DIR$/1906101038江来洪/1906101038江来洪.iml" filepath="$PROJECT_DIR$/1906101038江来洪/1906101038江来洪.iml" />
       <module fileurl="file://$PROJECT_DIR$/1906101103王自强/1906101103王自强.iml" filepath="$PROJECT_DIR$/1906101103王自强/1906101103王自强.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1906101031王卓越/src/src.iml" filepath="$PROJECT_DIR$/1906101031王卓越/src/src.iml" />
     </modules>
   </component>
 </project>
