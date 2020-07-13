@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/onetext/one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/onetext/three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/onetext/two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101031王卓越/src/src/Text.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +60,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="14 (14)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -75,18 +69,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\java-2020\1906101031王卓越" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.one">
     <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -160,6 +142,7 @@
       <workItem from="1594647755311" duration="1794000" />
       <workItem from="1594649567176" duration="636000" />
       <workItem from="1594650234779" duration="555000" />
+      <workItem from="1594651907805" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1594628749449</created>
@@ -186,20 +169,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
