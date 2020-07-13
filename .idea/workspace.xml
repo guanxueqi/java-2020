@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/onetext/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/onetext/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101031王卓越/src/src/onetext/two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1906101031王卓越/src/src/Text.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eckwrxyvczLJufFc7SoJFCFLuv" />
@@ -50,6 +58,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -57,6 +66,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="14 (14)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-code" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -78,7 +88,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.one">
+    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onetext.one" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onetext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="1906101103王自强" />
@@ -86,8 +109,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onetext.three" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onetext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onetext.two" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onetext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.one" />
+        <item itemvalue="Application.three" />
+        <item itemvalue="Application.two" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -104,7 +156,10 @@
       <updated>1594628509291</updated>
       <workItem from="1594646511822" duration="272000" />
       <workItem from="1594646847866" duration="233000" />
-      <workItem from="1594647100730" duration="265000" />
+      <workItem from="1594647100730" duration="596000" />
+      <workItem from="1594647755311" duration="1794000" />
+      <workItem from="1594649567176" duration="636000" />
+      <workItem from="1594650234779" duration="555000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1594628749449</created>
@@ -113,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594628749449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1594647464028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594647464029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1594647569523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594647569523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,21 +206,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="659" y="94" key="#Project_Structure" timestamp="1594628629228">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="659" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594628629228" />
-    <state x="659" y="94" key="SettingsEditor" timestamp="1594628623053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594628623053" />
-    <state x="771" y="252" key="Vcs.Push.Dialog.v2" timestamp="1594628756148">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="771" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594628756148" />
-    <state x="554" y="129" key="new project wizard" timestamp="1594628619390">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="554" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594628619390" />
+    <state x="659" y="94" key="#Project_Structure" />
+    <state x="659" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" />
+    <state x="659" y="94" key="SettingsEditor" />
+    <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" />
+    <state x="771" y="252" key="Vcs.Push.Dialog.v2" />
+    <state x="771" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" />
+    <state x="554" y="129" key="new project wizard" />
+    <state x="554" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" />
   </component>
 </project>
