@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +58,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="14 (14)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDK" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -142,7 +140,7 @@
       <workItem from="1594647755311" duration="1794000" />
       <workItem from="1594649567176" duration="636000" />
       <workItem from="1594650234779" duration="555000" />
-      <workItem from="1594651907805" duration="112000" />
+      <workItem from="1594651907805" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1594628749449</created>
@@ -165,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594647569523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1594652068780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594652068780</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,13 +193,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="659" y="94" key="#Project_Structure" />
-    <state x="659" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" />
-    <state x="659" y="94" key="SettingsEditor" />
-    <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" />
-    <state x="771" y="252" key="Vcs.Push.Dialog.v2" />
-    <state x="771" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" />
-    <state x="554" y="129" key="new project wizard" />
-    <state x="554" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" />
+    <state x="659" y="94" key="#Project_Structure" timestamp="1594652053737" />
+    <state x="659" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1594652360418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594652360418" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594652417336">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594652417336" />
+    <state x="659" y="94" key="SettingsEditor" timestamp="1594652053737" />
+    <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
+    <state x="375" y="125" key="Vcs.Push.Dialog.v2" timestamp="1594652153044">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="125" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594652153044" />
+    <state x="771" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
+    <state x="554" y="129" key="new project wizard" timestamp="1594652053737" />
+    <state x="554" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
   </component>
 </project>
