@@ -1,4 +1,4 @@
-package 培训;
+package 第一次作业;
 
 public class IfElse {
     public static void main(String[] args) {
