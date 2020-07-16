@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test_7_13 {
+public class Test0713 {
     public static void main(String[] args) {
 //        作业1
 //        根据输入的分数打印其对应的等级，85-100为A，70-85为B，55-70为C，55以下为D。
