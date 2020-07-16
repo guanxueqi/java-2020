@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="" />
+    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/1906101041刘仕豪/Helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +61,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="14 (14)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -68,7 +71,14 @@
       <recent name="E:\java-2020\1906101031王卓越" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.one">
+  <component name="RunManager" selected="Application.Helloworld">
+    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Helloworld" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="onetext.one" />
       <module name="src" />
@@ -117,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Helloworld" />
         <item itemvalue="Application.one" />
         <item itemvalue="Application.three" />
         <item itemvalue="Application.two" />
