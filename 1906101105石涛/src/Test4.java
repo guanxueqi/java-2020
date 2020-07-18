@@ -6,7 +6,7 @@ import java.util.Arrays;
  */
 public class Test4 {
     public static void main(String[] args){
-        int m[]={1,2,3,4};
+        int m[]={1,2,3,4,100,72};
         System.out.println(max(m));
     }
     public static int max(int[] num){
