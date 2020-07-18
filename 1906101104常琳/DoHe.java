@@ -5,7 +5,7 @@ public class DoHe {
         do{
             sum1 += i;
             i++;
-        }while(i<101);
+        }while(i<=100);
         System.out.println(sum1);
     }
 }

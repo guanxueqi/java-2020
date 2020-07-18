@@ -1,6 +1,6 @@
 public class Rank {
     public static void main(String[] args){
-        int x = 79;
+        int x = 80;
         if(x>=85 ){
             System.out.println('A');
         }else if(x>=70){

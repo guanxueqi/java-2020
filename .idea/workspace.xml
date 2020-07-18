@@ -20,13 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/BiJiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/DoHe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/ForHe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/WhileHe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1906101104常琳/BiJiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/BiJiao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1906101104常琳/DoHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/DoHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1906101104常琳/ForHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/ForHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1906101104常琳/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1906101104常琳/WhileHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/WhileHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/BiJiao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/BiJiao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/DoHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/DoHe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/ForHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/ForHe.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +79,7 @@
       <recent name="E:\java-2020\1906101031王卓越" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rank">
+  <component name="RunManager" selected="Application.ForHe">
     <configuration name="BiJiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BiJiao" />
       <module name="code" />
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rank" />
+        <item itemvalue="Application.ForHe" />
         <item itemvalue="Application.BiJiao" />
+        <item itemvalue="Application.Rank" />
         <item itemvalue="Application.DoHe" />
         <item itemvalue="Application.WhileHe" />
-        <item itemvalue="Application.ForHe" />
       </list>
     </recent_temporary>
   </component>
@@ -217,22 +219,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595047036889" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595047306803">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595048355390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595047306803" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595047306801">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595048355390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595047306801" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595047306801">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595048355390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595047306801" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595047306803">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595048355390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595047306803" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1595046960837">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
