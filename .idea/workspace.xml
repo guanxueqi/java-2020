@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test" />
+    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/BiJiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/DoHe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/ForHe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/WhileHe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,78 +65,61 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="jdk.selected.JAVA_MODULE" value="14 (14)" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\java-2020\1906101031王卓越" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Helloworld">
-    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Helloworld" />
+  <component name="RunManager" selected="Application.Rank">
+    <configuration name="BiJiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BiJiao" />
       <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onetext.one" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onetext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="DoHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoHe" />
+      <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="1906101103王自强" />
+    <configuration name="ForHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForHe" />
+      <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onetext.three" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onetext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Rank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rank" />
+      <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onetext.two" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onetext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="WhileHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileHe" />
+      <module name="code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Helloworld" />
-        <item itemvalue="Application.one" />
-        <item itemvalue="Application.three" />
-        <item itemvalue="Application.two" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Rank" />
+        <item itemvalue="Application.BiJiao" />
+        <item itemvalue="Application.DoHe" />
+        <item itemvalue="Application.WhileHe" />
+        <item itemvalue="Application.ForHe" />
       </list>
     </recent_temporary>
   </component>
@@ -210,15 +201,42 @@
   <component name="WindowStateProjectService">
     <state x="659" y="94" key="#Project_Structure" timestamp="1594652053737" />
     <state x="659" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
+    <state x="397" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595046699149">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595046699149" />
+    <state x="361" y="18" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595046435619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="18" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1595046435619" />
     <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1594652360418">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594652360418" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594652417336">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595047036889">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594652417336" />
-    <state x="659" y="94" key="SettingsEditor" timestamp="1594652053737" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595047036889" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595047306803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595047306803" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595047306801">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595047306801" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595047306801">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595047306801" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595047306803">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595047306803" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1595046960837">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595046960837" />
     <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
     <state x="628" y="199" key="Vcs.Push.Dialog.v2" timestamp="1594886900171">
       <screen x="93" y="0" width="1827" height="1080" />
@@ -230,7 +248,10 @@
       <screen x="93" y="0" width="1827" height="1080" />
     </state>
     <state x="928" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/93.0.1827.1080@93.0.1827.1080" timestamp="1594886981025" />
-    <state x="554" y="129" key="new project wizard" timestamp="1594652053737" />
+    <state x="56" y="0" key="new project wizard" timestamp="1595046166006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1595046166006" />
     <state x="554" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
   </component>
 </project>
