@@ -19,11 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
+    <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/1906101084吴怡辰.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713/Test04_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713/Test05_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713/Test06_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713作业/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713作业/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0713作业/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0716/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101084吴怡辰/day0720/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101084吴怡辰/1906101084吴怡辰.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101084吴怡辰/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101084吴怡辰/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/code.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -65,51 +76,75 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\java-2020\1906101031王卓越" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="BiJiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BiJiao" />
-      <module name="code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForHe" />
-      <module name="code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rank" />
-      <module name="code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+  <component name="RunManager" selected="Application.Task03">
+    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0713作业.Task01" />
       <module name="1906101084吴怡辰" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test" />
-      <module name="code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="day0713作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0713作业.Task02" />
+      <module name="1906101084吴怡辰" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0713作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0713作业.Task03" />
+      <module name="1906101084吴怡辰" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0713作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test04_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0713.Test04_loop" />
+      <module name="1906101084吴怡辰" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0713.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test06_switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0713.Test06_switch" />
+      <module name="1906101084吴怡辰" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0713.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ForHe" />
-        <item itemvalue="Application.BiJiao" />
-        <item itemvalue="Application.Rank" />
+        <item itemvalue="Application.Task03" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.Task01" />
+        <item itemvalue="Application.Test04_loop" />
+        <item itemvalue="Application.Test06_switch" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +180,9 @@
       <workItem from="1594650234779" duration="555000" />
       <workItem from="1594651907805" duration="431000" />
       <workItem from="1595219760559" duration="232000" />
-      <workItem from="1595220842608" duration="1053000" />
+      <workItem from="1595220842608" duration="1551000" />
+      <workItem from="1595227399785" duration="858000" />
+      <workItem from="1595228270272" duration="11380000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1594628749449</created>
@@ -182,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594886735687</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1595221930919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595221930919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,49 +262,49 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="361" y="18" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1595046435619" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1594652360418">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1595221930275">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594652360418" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1595221930275" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595047036889">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595047036889" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595048355390">
+    <state width="595" height="163" key="GridCell.Tab.0.bottom" timestamp="1595253196328">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595048355390">
+    <state width="595" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595253196328" />
+    <state width="595" height="163" key="GridCell.Tab.0.center" timestamp="1595253196328">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595048355390">
+    <state width="595" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595253196328" />
+    <state width="595" height="163" key="GridCell.Tab.0.left" timestamp="1595253196328">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595048355390">
+    <state width="595" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595253196328" />
+    <state width="595" height="163" key="GridCell.Tab.0.right" timestamp="1595253196328">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state x="69" y="0" key="SettingsEditor" timestamp="1595221617074">
+    <state width="595" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595253196328" />
+    <state x="69" y="0" key="SettingsEditor" timestamp="1595239106248">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="69" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595221617074" />
+    <state x="69" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595239106248" />
     <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
-    <state x="628" y="199" key="Vcs.Push.Dialog.v2" timestamp="1594886900171">
-      <screen x="93" y="0" width="1827" height="1080" />
+    <state x="375" y="125" key="Vcs.Push.Dialog.v2" timestamp="1595221934835">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="375" y="125" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594652153044" />
+    <state x="375" y="125" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595221934835" />
     <state x="771" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
     <state x="628" y="199" key="Vcs.Push.Dialog.v2/93.0.1827.1080@93.0.1827.1080" timestamp="1594886900171" />
     <state x="928" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594886981025">
       <screen x="93" y="0" width="1827" height="1080" />
     </state>
     <state x="928" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/93.0.1827.1080@93.0.1827.1080" timestamp="1594886981025" />
-    <state x="56" y="0" key="new project wizard" timestamp="1595221715225">
+    <state x="56" y="0" key="new project wizard" timestamp="1595227818099">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1595221715225" />
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1595227818099" />
     <state x="554" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
   </component>
 </project>
