@@ -1,3 +1,5 @@
+package 之前的;
+
 // 方法重载
 public class Test2 {
     public static void main(String[] args){
