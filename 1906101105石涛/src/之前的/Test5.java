@@ -1,3 +1,5 @@
+package 之前的;
+
 public class Test5 {
     // 构造方法，不能返回值，构造方法名必须和类名一样
     public Test5(String name){
