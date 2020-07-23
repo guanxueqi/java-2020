@@ -1,3 +1,5 @@
+package Test0713;
+
 import java.util.Scanner;
 
 public class Test0713 {
