@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/ArrayList使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1906101104常琳/Test723.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101104常琳/BiJiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/BiJiao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101104常琳/DoHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/DoHe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101104常琳/ForHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/ForHe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101104常琳/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1906101104常琳/WhileHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/1906101104常琳/WhileHe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/BiJiao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/BiJiao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/DoHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/DoHe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/ForHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/ForHe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/Rank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code/WhileHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/WhileHe.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,14 @@
       <recent name="E:\java-2020\1906101031王卓越" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForHe">
+  <component name="RunManager" selected="Application.ArrayList使用">
+    <configuration name="ArrayList使用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList使用" />
+      <module name="code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BiJiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BiJiao" />
       <module name="code" />
@@ -108,20 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileHe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileHe" />
-      <module name="code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayList使用" />
         <item itemvalue="Application.ForHe" />
         <item itemvalue="Application.BiJiao" />
         <item itemvalue="Application.Rank" />
         <item itemvalue="Application.DoHe" />
-        <item itemvalue="Application.WhileHe" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594886735687</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第一次作业">
+      <created>1595048572080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595048572080</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="第一次作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次作业" />
   </component>
   <component name="WindowStateProjectService">
     <state x="659" y="94" key="#Project_Structure" timestamp="1594652053737" />
@@ -219,31 +223,31 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595047036889" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595048355390">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595769125341">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595048355390">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595769125341" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1595769125340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595048355390">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595769125340" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1595769125340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595048355390">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595769125340" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1595769125340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595048355390" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595769125340" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1595046960837">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595046960837" />
     <state x="659" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
-    <state x="628" y="199" key="Vcs.Push.Dialog.v2" timestamp="1594886900171">
-      <screen x="93" y="0" width="1827" height="1080" />
+    <state x="375" y="125" key="Vcs.Push.Dialog.v2" timestamp="1595048604937">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="375" y="125" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594652153044" />
+    <state x="375" y="125" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1595048604937" />
     <state x="771" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594652053737" />
     <state x="628" y="199" key="Vcs.Push.Dialog.v2/93.0.1827.1080@93.0.1827.1080" timestamp="1594886900171" />
     <state x="928" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594886981025">
