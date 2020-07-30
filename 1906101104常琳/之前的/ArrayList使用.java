@@ -8,7 +8,6 @@ public class ArrayList使用 {
         list.add("c");
         System.out.println("顺序添加："+list);
 
-//        插入添加：
         list.add(1,"m");
         System.out.println("插入添加："+list);
 
