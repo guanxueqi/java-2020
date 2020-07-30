@@ -50,66 +50,66 @@ public class Test723 {
     }
 
 //    super在java的子类中指代父类引用
-    public class Doctor extends Person{
-    public void name(){
-        System.out.println(super.name);
+         public class Doctor extends Person{
+         public void name(){
+             System.out.println(super.name);
     }
 
-    public void id(){
-        System.out.println(super.id);
+         public void id(){
+             System.out.println(super.id);
     }
 
-    public void Environment(){
-        System.out.println(super.environment);
+         public void Environment(){
+             System.out.println(super.environment);
     }
 
-    public void speciality(){
-        System.out.println(super.speciality);
+         public void speciality(){
+             System.out.println(super.speciality);
     }
 
-    public void work(){
-        System.out.println(super.name+"在"+super.environment+"工作");
+         public void work(){
+             System.out.println(super.name+"在"+super.environment+"工作");
     }
 
-    public void ability(){
-        System.out.println("空余时间在诊所上班");
+         public void ability(){
+             System.out.println("空余时间在诊所上班");
     }
 
-    public void introduction(){
-        System.out.println("大家好！我是"+super.id+"号"+super.name);
+         public void introduction(){
+             System.out.println("大家好！我是"+super.id+"号"+super.name);
     }
 
-    public void duty(){
-        System.out.println("治病救人是我的责任");
+         public void duty(){
+             System.out.println("治病救人是我的责任");
     }
 
-    public class Teacher extends Person{
-        public void name(){
-            System.out.println(super.name);
+         public class Teacher extends Person{
+             public void name(){
+                 System.out.println(super.name);
         }
 
-        public void id(){
-            System.out.println(super.id);
+             public void id(){
+                 System.out.println(super.id);
         }
 
         public void Environment(){
-            System.out.println(super.environment);
+                 System.out.println(super.environment);
         }
 
         public void speciality(){
-            System.out.println(super.speciality);
+                 System.out.println(super.speciality);
         }
 
         public void work(){
-            System.out.println(super.name+"在"+super.environment+"工作");
+                 System.out.println(super.name+"在"+super.environment+"工作");
         }
 
         public void ability(){
-            System.out.println(super.name+"我会"+super.speciality);
+                 System.out.println(super.name+"我会"+super.speciality);
         }
 
         public void introduction(){
-            System.out.println("大家好！我是"+super.id+"号"+super.name);
+                 System.out.println("大家好！我是"+super.id+"号"+super.name);
         }
     }
 }
