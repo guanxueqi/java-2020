@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3a8a22-96c7-42cd-8f87-f6586cf47a59" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/ArrayList使用.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1906101104常琳/Test723.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/Rank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code/WhileHe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code/WhileHe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-2020.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -138,6 +134,7 @@
       <workItem from="1594649567176" duration="636000" />
       <workItem from="1594650234779" duration="555000" />
       <workItem from="1594651907805" duration="431000" />
+      <workItem from="1597385006973" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1594628749449</created>
@@ -219,10 +216,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594652360418" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1595047036889">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="505" y="115" key="FileChooserDialogImpl" timestamp="1597385016917">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595047036889" />
+    <state x="505" y="115" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597385016917" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1595769125341">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
